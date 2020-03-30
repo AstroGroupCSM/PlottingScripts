@@ -1,0 +1,22 @@
+lines.markersize : 8
+hatch.linewidth : 1.0
+font.size :14
+errorbar.capsize : 3.0
+axes.grid : True
+xtick.top : True
+xtick.major.width : 3.0
+xtick.minor.width : 1.5
+xtick.direction : in
+xtick.minor.visible : True
+
+ytick.right : True
+ytick.major.width : 3.0
+ytick.minor.width : 1.5
+ytick.direction : in
+ytick.minor.visible : True
+
+grid.linestyle : --
+grid.alpha: 0.8
+
+legend.frameon: false
+
